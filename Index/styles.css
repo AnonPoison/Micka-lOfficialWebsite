@@ -1,0 +1,104 @@
+title {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: black;
+    font-family:times new roman;
+    font-size: 40px;
+    background-color: white;
+    margin-top: -15px;
+    padding: 20px;
+}
+
+h2 {
+	text-align: center;
+    color: white;
+    font-family: times new roman;
+    font-size: 30px;
+}
+
+p {
+	text-align: center;
+}
+
+p {
+	font-size: 130%;
+	color: white;
+}
+
+
+
+h3 {
+	text-align: center;
+
+    color: white;
+}
+mark {
+	background-color: yellow;
+}
+
+a {
+	color: yellow;
+    font-style: italic;
+}
+
+
+.gif{
+
+    float: right;
+    top: 206%;
+    left: 52%;
+    position: absolute ;
+    width: 45%;
+    height: 77%;
+    border-radius: 100%;
+    text-align: right;
+}
+
+.logo {
+    float: right;
+    top: 1px;
+    border-radius: 75px;
+    right: 750px;
+    text-align: right;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    width: 100px;
+}
+nav {
+    width: 100%;
+    background: black;
+    color: white;
+}
+
+ul {
+    width: 80%;
+    margin: 0 auto;
+    padding: 30px;
+    color: white;
+    font-weight: bold;
+}
+ul li:hover {
+    background-color: white;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+    border-radius: 20%; 
+}
+
+ul li a {
+    color: #ffff;
+    text-decoration: none;
+    font-size: 120%;
+}
+ul li a:hover {
+    color: black;
+    z-index: 0.1;
+}
